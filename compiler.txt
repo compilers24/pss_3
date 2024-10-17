@@ -1,0 +1,4 @@
+program addition;
+begin 4 + 67 = 71;
+
+end.
